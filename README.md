@@ -1,4 +1,4 @@
-# chatgpt-clone
+# chatgpt-clone - react app
 
 ChatGPT Clone use with OpenAi API_KEY
 
